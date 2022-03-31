@@ -1256,7 +1256,7 @@ main {
 .sidebar {
   font-size: 90%;
   line-height: 1.8;
-  background: #f9f9f9;
+  background: #dddddd;
   border-right: 1px solid #eee;
 }
 .sidebar ul {
