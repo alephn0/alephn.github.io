@@ -36,6 +36,7 @@ main {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  vertical-align:middle;
 }
 
 /* Grouping content
@@ -725,6 +726,7 @@ body {
 .container {
   width: 100%;
   height: 100%;
+  background-color: #000066;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   display: -webkit-box;
@@ -853,11 +855,11 @@ main:only-child {
   }
 }
 .panel {
-  --panel-font-color: #000;
+  --panel-font-color: #000066;
   --panel-background-color: unset;
   --panel-border-color: transparent;
   padding: 1.28rem;
-  color: var(--panel-font-color, #000);
+  color: var(--panel-font-color, #000066);
   background: var(--panel-background-color, unset);
   border: 1px solid;
   border-color: var(--panel-border-color, transparent);
