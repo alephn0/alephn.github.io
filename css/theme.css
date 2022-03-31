@@ -854,7 +854,7 @@ main:only-child {
   }
 }
 .panel {
-  --panel-font-color: #000066;
+  --panel-font-color: #000;
   --panel-background-color: unset;
   --panel-border-color: transparent;
   padding: 1.28rem;
