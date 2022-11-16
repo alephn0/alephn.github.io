@@ -1,0 +1,25 @@
+<CDA>
+<Code>SNOMED-CT"</Code> 
+<Title>Summary of Patient Chart</Title>
+<Time>20221119</Time>
+<Version>Version 1</Version>
+<Patient>CC-16303150
+        Kaye Sheppard
+        20121118
+        M
+        P.O. Box 351, 9987 Nunc Rd.
+        Russian Federation
+        (556) 279-6536</Patient> 
+<Exams>X-ray tomography of abdomen Tomografia
+        Abdominal X-ray normal Rayos X
+        PET breast study Medicina Nuclear
+        Mammography report Mamografia
+        Ultrasound peripheral imaging, B-scan Ultrasonido</Exams>
+<Physicians>Dorothy Taylor 1279
+        Phelan Newman 2820
+        Steel Gay 1250
+        Cleo Farrell 1003
+        Dustin Vang 2793
+</Physicians>
+<Signature>30,8,26,27,20,5,26,7,20</Signature>
+</CDA>
