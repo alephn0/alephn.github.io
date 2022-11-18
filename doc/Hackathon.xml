@@ -10,11 +10,16 @@
         P.O. Box 351, 9987 Nunc Rd.
         Russian Federation
         (556) 279-6536</Patient> 
-<Exams>X-ray tomography of abdomen Tomografia
-        Abdominal X-ray normal Rayos X
-        PET breast study Medicina Nuclear
-        Mammography report Mamografia
-        Ultrasound peripheral imaging, B-scan Ultrasonido</Exams>
+<Exams>1000 719485007 X-ray tomography of abdomen Tomografia
+        1001 275734002 Abdominal X-ray normal Rayos X
+        1002 416323006 PET breast study Medicina Nuclear
+        1003 4231000179109 Mammography report Mamografia
+        1004 7174001 Ultrasound peripheral imaging, B-scan Ultrasonido</Exams>
+<Diagnostics>1000 J11 Influenza debida a virus no identificado
+        1001 J12 Neumonía viral, no clasificada en otra parte
+        1002 J13 Neumonía debida a Streptococcus pneumoniae
+        1003 J14 Neumonía debida a Haemophilus influenzae
+        1004 J15 Neumonía bacteriana, no clasificada en otra parte</Diagnostics>
 <Physicians>Dorothy Taylor 1279
         Phelan Newman 2820
         Steel Gay 1250
