@@ -32,7 +32,6 @@
 /* LineHighlight */
 .chroma .hl {
   background-color: #ffffcc;
-  vertical-align: middle;
   display: block;
   width: 100%;
 }
