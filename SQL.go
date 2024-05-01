@@ -277,6 +277,7 @@ func viewHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
+	// VERSION GITHUB
 	http.HandleFunc("/view/", viewHandler)
 	http.ListenAndServe(":8080", nil)
 }
